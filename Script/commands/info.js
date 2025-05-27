@@ -62,10 +62,10 @@ module.exports.run = async function ({ api, event, args, Users, permssion, getTe
  ];
  var link = [
  "https://i.imgur.com/EH5zs4x.jpeg",
- "",
- "",
- "",
- "",
+ "https://i.imgur.com/EH5zs4x.jpeg",
+ "https://i.imgur.com/EH5zs4x.jpeg",
+ "https://i.imgur.com/EH5zs4x.jpeg",
+ "https://i.imgur.com/EH5zs4x.jpeg",
  ];
 
  var i = 1;
